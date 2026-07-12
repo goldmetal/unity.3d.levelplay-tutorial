@@ -17,7 +17,7 @@
 레벨플레이 SDK 제작 실습은 **AdManager.cs**에서 이루어집니다.  
   
 ### 학습 방법
-**Unite Seoul 2026 Hands-On** 트레이닝에서 @chris-is-one님과 함께 오프라인으로 학습이 진행되며  
+**Unite Seoul 2026 Hands-On** 트레이닝에서 **[@Chris-Won](https://github.com/chris-is-one)**님과 함께 오프라인으로 학습이 진행되며  
 차후 **Unity Learn** 콘텐츠로 출간 예정입니다.  
   
 ### 등장 인물
@@ -28,4 +28,4 @@
   
   
 #### Special Thanks
-@chris-is-one: 미디에이션과 레벨플레이 지식을 알려주신 유니티 서포트 엔지니어입니다.
+**[@Chris-Won](https://github.com/chris-is-one)**: 미디에이션과 레벨플레이 지식을 알려주신 유니티 서포트 엔지니어입니다.

@@ -1,7 +1,7 @@
 # 레벨플레이 미디에이션 튜토리얼
 <p align="center">
   <img src="https://github.com/goldmetal/unity.3d.levelplay-tutorial/blob/main/Banner.png"><br>
-  <img src="https://img.shields.io/badge/Unity-000000?&logo=unity&logoColor=white" style="margin: 0 5px;">
+  <img src="https://img.shields.io/badge/Unity-6000.5.2f1-000000?&logo=unity&logoColor=white" style="margin: 0 5px;">
   <img src="https://img.shields.io/badge/Levelplay-2B7361?&logo=unity&logoColor=white" style="margin: 0 5px;">
   <img src="https://img.shields.io/badge/Voxel_Art-A0BB16?&logoColor=white">
 </p>

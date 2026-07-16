@@ -20,6 +20,15 @@
 **Unite Seoul 2026 Hands-On** 트레이닝에서 **@Chris-Won**님과 함께 오프라인으로 학습이 진행되며  
 오른쪽의 [프로젝트 다운로드](https://github.com/goldmetal/unity.3d.levelplay-tutorial/releases/tag/Project)로 들어가서 **unity_2d_levelplay_tutorial_6000_5_3f1.zip**을 다운로드합니다.  
 이후 압축을 풀고 미리 설치된 유니티 허브에서 프로젝트를 추가하여 시작할 수 있습니다.
+
+### 데모 키
+**Android**  
+* appKey= 25b63cf85
+* adUnityId= syz3d8ekts22q0or
+  
+**iOS**
+* appKey= 25c43a4a5
+* adUnityId= l1quzz1xmmdhw5er  
   
 ### 등장 인물
 해당 프로젝트에 등장하는 3종 캐릭터는 다음 에셋에서 만날 수 있습니다.
